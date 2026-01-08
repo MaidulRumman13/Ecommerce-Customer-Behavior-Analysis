@@ -79,38 +79,40 @@ Visualizations are designed to clearly communicate insights and support business
 
 ## 📂 Project Structure
 ecommerce-customer-behavior-analysis/
+
 │
+
 ├── data/
+
 │ └── ecommerce_customer_behavior_dataset.csv
+
 │ └── Metatext.docx
+
 │
+
 ├── notebooks/
+
 │ └── Customer_Behavior_Analysis.ipynb
+
 │
+
 ├── images/
+
 │ └── charts.png
+
 │
-├── README.md
-└── requirements.txt
+
+└── README.md
 
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ecommerce-customer-behavior-analysis.git
-Install dependencies:
 
-pip install -r requirements.txt
 
-Open the notebook:
-jupyter notebook
-
-🚀 Key Takeaway
+##🚀 Key Takeaway
 This project demonstrates how Python-driven data analysis can transform raw transactional data into actionable business insights, supporting strategic decisions in customer retention, logistics, and user experience optimization.
 
-📌 Disclaimer
+##📌 Disclaimer
 This project is created for learning and portfolio purposes.
 The dataset is used solely for analytical practice and does not represent real customer data.
 
