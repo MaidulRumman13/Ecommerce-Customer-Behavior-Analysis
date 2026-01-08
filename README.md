@@ -87,9 +87,7 @@ ecommerce-customer-behavior-analysis/
 │ └── ecommerce_customer_behavior_dataset.csv
 
 │ └── Metatext.docx
-
 │
-
 ├── notebooks/
 
 │ └── Customer_Behavior_Analysis.ipynb
@@ -109,10 +107,12 @@ ecommerce-customer-behavior-analysis/
 
 
 
-##🚀 Key Takeaway
+## 🚀 Key Takeaway
+
 This project demonstrates how Python-driven data analysis can transform raw transactional data into actionable business insights, supporting strategic decisions in customer retention, logistics, and user experience optimization.
 
-##📌 Disclaimer
+## 📌 Disclaimer
+
 This project is created for learning and portfolio purposes.
 The dataset is used solely for analytical practice and does not represent real customer data.
 
