@@ -87,7 +87,9 @@ ecommerce-customer-behavior-analysis/
 │ └── ecommerce_customer_behavior_dataset.csv
 
 │ └── Metatext.docx
+
 │
+
 ├── notebooks/
 
 │ └── Customer_Behavior_Analysis.ipynb
