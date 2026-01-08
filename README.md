@@ -34,6 +34,6 @@ This project analyzes an e-commerce customer behavior dataset using Python to un
 - Enhance mobile UX for intent-driven shoppers
 
 ## 📂 Project Structure
-data/ → Dataset + Metatext
-notebooks/ → Analysis notebook
-images/ → Visualizations
+- data/ → Dataset + Metatext
+- notebooks/ → Analysis notebook
+- images/ → Visualizations
