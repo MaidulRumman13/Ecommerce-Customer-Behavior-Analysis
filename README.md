@@ -22,7 +22,7 @@ This project analyzes an e-commerce customer behavior dataset using Python to un
 - Jupyter Notebook
 
 ## 📈 Key Insights
-- Customer retention is driven more by satisfaction and subscription status than discounts
+- Customer retention is driven more by satisfaction and subscription status than by discounts
 - Premium subscribers show loyalty but lack differentiated delivery benefits
 - No meaningful correlation exists between website time spent and purchase amount
 - High-value regions such as Barisal and Khulna generate stronger transaction values
@@ -34,3 +34,6 @@ This project analyzes an e-commerce customer behavior dataset using Python to un
 - Enhance mobile UX for intent-driven shoppers
 
 ## 📂 Project Structure
+data/ → Dataset + Metatext
+notebooks/ → Analysis notebook
+images/ → Visualizations
